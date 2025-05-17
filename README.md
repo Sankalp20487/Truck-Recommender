@@ -44,8 +44,12 @@ A logistics optimization web application designed to help breweries make cost-ef
 
 2. Install required packages:
    
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. Run the Streamlit app:
 
-  streamlit run app.py
+    streamlit run app.py
+
+
+Built with ❤️ by Team Alpha Huskies @ Northeastern University
+For Allagash Brewing Company | March 2025
