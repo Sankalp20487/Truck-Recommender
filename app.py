@@ -11,7 +11,7 @@ from utils import (
 )
 
 # Google Maps API Key (replace with your key)
-GOOGLE_MAPS_API_KEY = "AIzaSyCI_2wsRlYRbNB5EiFBplaaplgBUEVpNqc"
+GOOGLE_MAPS_API_KEY = "GOOGLE_API_KEY"
 
 # Page configuration
 st.set_page_config(
