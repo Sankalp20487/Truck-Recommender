@@ -10,7 +10,7 @@ import os
 import json
 
 # OpenWeatherMap API key from environment variable
-WEATHER_API_KEY = os.getenv("WEATHER_API_KEY", "686810d738e10e4b20cf4f81ae5e0705")
+WEATHER_API_KEY = os.getenv("WEATHER_API_KEY", "ACTUAL_API_KEY")
 
 # State capital coordinates
 STATE_CAPITAL_COORDS = {
